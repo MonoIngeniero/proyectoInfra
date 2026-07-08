@@ -81,25 +81,6 @@ El programa realiza pruebas para matrices de tamaño:
 
 ---
 
-## Cómo ejecutar
-
-1. Clonar el repositorio.
-
-```bash
-git clone <URL_DEL_REPOSITORIO>
-```
-
-2. Compilar el programa.
-
-```bash
-g++ main.cpp -O2 -o benchmark
-```
-
-3. Ejecutar.
-
-```bash
-./benchmark
-```
 
 ---
 
